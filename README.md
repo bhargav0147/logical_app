@@ -1,16 +1,8 @@
-# logical_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>
+<img src="https://user-images.githubusercontent.com/119872080/232485789-7eca00e4-5883-49de-bd3f-a76b7d35a309.png" height="20%" width="30%" >
+<img src="https://user-images.githubusercontent.com/119872080/232485811-4569b9f3-2478-49cc-9802-9613957a745b.png" height="20%" width="30%" >
+<img src="https://user-images.githubusercontent.com/119872080/232485838-b7022ba2-09cb-4c9b-9821-0e5ebb617a3d.png" height="20%" width="30%" >
+<img src="https://user-images.githubusercontent.com/119872080/232485851-be807344-d332-4f89-aa50-3be620947bff.png" height="20%" width="30%" >
+<img src="https://user-images.githubusercontent.com/119872080/232485861-d816e046-4fd6-4d54-a325-c3395d33597f.png" height="20%" width="30%" >
+<img src="https://user-images.githubusercontent.com/119872080/232485876-c73e8607-789d-4b57-8ca1-4211e393e648.png" height="20%" width="30%" >
+</p>
